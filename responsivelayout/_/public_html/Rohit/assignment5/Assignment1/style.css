@@ -1,0 +1,39 @@
+.main{
+	background-color: white;
+	height: 100%;
+	margin: 0 auto;
+	max-width: 954px;
+	top: 0px;
+	bottom: 0px;
+
+}
+
+
+body{
+	background-color: #d7e7f4;
+}
+#login{
+	float: right;
+	margin-top: 10px;
+}
+
+.logo{
+	margin: 0 22px;
+}
+
+a{
+	color: #007BAF; 
+	float: right; 
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#txt{
+	margin-top: 20px;
+	margin-left: 40px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#image{ 
+	margin-top: 20px;
+	height: 21px;
+}

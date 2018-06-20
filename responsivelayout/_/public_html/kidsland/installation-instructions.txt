@@ -1,0 +1,11 @@
+--- Installation instructions ---
+
+1. Upload the archive package of the theme to the desired folder.
+2. Extract the archive
+3. Access the folder via your web browser.
+4. Follow the instructions on the screen. NOTE: Make sure that you use the oc_ database table prefix for the new installation.
+
+The installation of the template is now completed and you can use it for the development of your website. 
+
+6. If you need assistance with your website configuration, you can check our free tutorials at: http://fastcomet.com/tutorials/opencart
+7. If you need hosting, free installation of the template and much more, you can check out our OpenCart hosting package at: http://fastcomet.com/opencart-hosting
