@@ -1,0 +1,133 @@
+          .navbar {
+              overflow: hidden;
+              background-color: #292421;
+              font-family: Arial, Helvetica, sans-serif;
+          }
+          
+          .navbar a {
+              float: left;
+              color: white;
+              padding: 14px 15px;
+              text-decoration: none;
+              margin-left: 10px;
+              padding-right: 14px;
+          }
+          
+          .grid-container {
+              display: grid;
+              grid-template-columns: auto auto auto;
+              margin: 0 auto;
+              padding: 0;
+              width: 80%;
+          }
+          
+          .mainheading {
+              color: #d3d3d3;
+          }
+          
+          .subheading {
+              font-family: arial;
+              font-size: 12px;
+              float: left;
+              text-align: center;
+              text-decoration: none;
+          }
+          
+          .heading {
+              font-family: arial;
+          }
+          
+          .page {
+              text-align: left;
+              color: black;
+              margin-bottom: 0px;
+          }
+          
+          .image {
+              border: 2px solid white;
+              padding: 8px;
+              font-size: 30px;
+              text-align: center;
+              margin: 0 auto;
+          }
+          
+          .grid-iteam {
+              height: 220px;
+              width: 100%;
+              background-color: #D3D3D3;
+          }
+          
+          p {
+              color: #a8a8a8;
+              font-family: Arial, sans-serif;
+              text-align: center;
+              font-size: 30px;
+          }
+          
+          .image h5 {
+              padding-bottom: 1px;
+              font-size: 18px;
+              margin-top: 10px;
+              text-align: left;
+              color: #67aded;
+              font-family: arial;
+          }
+          
+          .lorem {
+              font-size: 12px;
+              margin-top: 5px;
+              text-align: left;
+              color: black;
+          }
+          
+          h6 {
+              color: grey;
+              font-family: arial;
+          }
+          
+          .marg {
+              margin: 0 auto;
+              width: 83%;
+          }
+          
+          .cont {
+              margin: 0 auto;
+              width: 79%;
+          }
+          
+          .line {
+              margin-top: 10px;
+              width: 100%;
+              opacity: 0.1;
+          }
+          
+          .size {
+              padding top: 22%;
+          }
+          
+          .project {
+              padding-bottom: 1px;
+              font-size: 20px;
+              margin-top: 10px;
+              text-align: left;
+              color: #67aded;
+              font-family: arial;
+              margin-bottom: 0;
+          }
+          
+          .blowline {
+              width: 300%;
+              opacity: 0.1;
+          }
+          
+          p.h6 {
+              color: black;
+              font-family: arial;
+              margin-bottom: 6%;
+              margin-top: 1px;
+              font-size: 13px;
+          }
+          
+          .footer {
+              width: 35%;
+          }

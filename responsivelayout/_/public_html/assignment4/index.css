@@ -1,0 +1,27 @@
+    table {
+    ;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,
+th {
+    text-align: center;
+    padding: 8px;
+    border: 2px solid Black;
+    padding: 10px;
+    padding-left: : 45px;
+    padding-right: 15px;
+}
+
+tr:nth-child(odd) {
+    background-color: #dddddd;
+}
+
+th {
+    background-color: #B8B8B8;
+    font-weight: bold;
+}
+
+.container {
+    margin-top: 100px;

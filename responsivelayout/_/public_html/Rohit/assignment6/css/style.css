@@ -1,0 +1,151 @@
+body{
+	margin:0;
+	padding: 0;
+	outline: 0;
+	background-image: url("../images/wood_bg.jpg");
+}
+
+.container{
+	background-color: white;
+	border-radius: 0 0 10px 10px;
+}
+	
+.ingredients{
+	text-align: center;
+	margin-top: 30px;
+	color: #003300;
+}
+
+.sites{
+	color: #003300
+}
+.links{
+	margin-top: 10px;
+}
+a{
+	color: #663300;
+
+}
+
+.anchors{
+	margin-bottom: 10px;
+	color: #663300;
+}
+
+#go{
+	background-color: #663300;
+	color: white;
+}
+ nav{
+ 	background-color: #663300;
+ }
+nav li{
+	margin-right: 1px;
+}
+ nav a{
+ 	color: white;
+ }
+
+ .navbar-adjust{
+ 	margin-top: 15px;
+ 	margin-bottom: -10px;
+ 	margin-left: 0px;
+ 	margin-right: 0px;
+ }
+
+ .vertical-bar{
+ 	background-color: white;
+ 	height:100%;
+ }
+
+ #second{
+ 	margin-bottom: 20px;
+ 	margin-top: 15px;
+ }
+
+ .starwest{
+ 	margin-left: 20px;
+ 	color: #003300;
+ }
+
+ .product{
+ 	margin-top: 0px;
+ 	background-color: #663300;
+ 	color: white;
+ }
+
+ .products{
+ 	margin-top: 10px;
+ 	border: 2px solid #663300;
+ }
+
+ .products p{
+ 	margin-left: 20px;
+ }
+
+ .woman{
+ 	margin-top: 20px;
+ 	border: 2px solid #663300;
+ 	height: 300px;
+ 	width: 150px;
+ }
+
+ .updates{
+ 	margin-top: 20px;
+ 	border: 2px solid #663300;
+ }
+ .updates p{
+ 	text-align: center;
+ }
+
+.signup{
+	background-color: #663300;
+	color: white;
+}
+#img1{
+	margin-right: 7px;
+}
+#img2{
+	margin-left: 7px;
+}
+
+.latest{
+	margin-top: 15px;
+	border: 2px solid #663300;
+}
+.latest a{
+	color: #003300;
+}
+
+.latest p{
+	font-size: 15px;
+	margin-left: 10px;
+	text-align: center;
+}
+
+.news{
+	margin-top: 0px;
+	font-size: 20px;
+	color: white;
+	background-color: #663300;
+}
+.certifications{
+	margin-top: 0px;
+	font-size: 20px;
+	color: white;
+	background-color: #663300;
+}
+
+/*.footer{
+	top: 50px;
+}*/
+
+h4{
+	color: #663300;
+}
+
+#copyright{
+	float: right;
+	margin-top: auto;
+	margin-bottom: auto;
+}

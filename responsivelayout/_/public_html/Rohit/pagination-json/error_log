@@ -1,0 +1,63 @@
+[02-May-2018 06:43:43 Etc/GMT] PHP Notice:  Undefined index: order in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 44
+[02-May-2018 06:43:43 Etc/GMT] PHP Notice:  Undefined index:  in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 44
+[02-May-2018 06:43:43 Etc/GMT] PHP Notice:  Undefined index: order in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 44
+[02-May-2018 06:43:43 Etc/GMT] PHP Notice:  Undefined index: start in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 44
+[02-May-2018 06:43:43 Etc/GMT] PHP Notice:  Undefined index: length in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 44
+[02-May-2018 06:43:43 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 06:43:43 Etc/GMT] PHP Notice:  Undefined index: draw in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 63
+[02-May-2018 06:47:26 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 06:47:26 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 06:47:27 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 06:47:27 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 06:47:28 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 06:47:28 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 06:47:28 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 06:47:28 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 06:47:31 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 06:47:31 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 06:47:36 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 06:47:36 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 06:47:40 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 06:47:40 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 06:47:40 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 06:47:40 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 06:47:40 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 06:47:40 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 06:47:42 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 06:47:42 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 07:08:06 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 07:08:06 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 07:08:06 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 07:08:06 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 07:08:07 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 07:08:07 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 07:08:09 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 07:08:09 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 07:08:11 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 07:08:11 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 07:08:12 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 07:08:12 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 07:08:17 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 07:08:17 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 07:48:42 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 07:48:42 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 07:48:43 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 07:48:43 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 07:48:46 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 07:48:46 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 07:48:46 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 07:48:46 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 07:48:52 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 07:48:52 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 07:48:52 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 07:48:52 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 07:48:54 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 07:48:54 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 07:48:55 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 07:48:55 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 07:48:57 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 07:48:57 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 07:48:59 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 07:48:59 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49
+[02-May-2018 07:49:18 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 43
+[02-May-2018 07:49:18 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/excelarf/public_html/Rohit/pagination-json/response.php on line 49

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Assignment</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.js"></script> 
+</head>
+<body>
+	<table>
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Email</th>
+				<th>Message</th>
+				<th>Date</th>
+			</tr>
+		</thead>
+		<tbody id="tbody">
+		
+		</tbody>
+	</table>
+	<br>
+	<br>
+	<hr>
+	<form>
+		<table>
+			<tr>
+				<td>Enter your name:</td>
+				<td><input type="text" id="name" name="name" required></td>
+			</tr>
+			<tr>
+				<td>Enter Email Address:</td>
+				<td><input type="email" id="email" name="email" required></td>
+			</tr>
+			<tr>
+				<td>Message:</td>
+				<td><input type="text" id="message" name="message" required></td>
+			</tr>
+			<tr>
+				<td>Date:</td>
+				<td><input type="date" id="date" name="date" required></td>
+			</tr>
+		</table>
+		<input type="submit" name="submit">
+	</form>
+	<div id="div1"></div>
+</body>
+<script>
+	function ajax(){
+		$.ajax({
+			type: "POST",
+			url: "getdata.php",
+			data: "",
+			dataType: "json",
+			success: function(data){
+				var len;
+				len = data.length;
+				var dat = "";
+				for(var i = 0; i < len; i++){
+					
+					dat += "<tr><td>"+data[i][0]+"</td><td>"+data[i][1]+"</td><td>"+data[i][2]+"</td><td>"+data[i][3]+"</td></tr>";
+				}
+				$("#tbody").html(dat);
+			}
+		});
+	}
+	$(document).ready(function(){
+		ajax();
+		setInterval(function(){
+			ajax();
+		}, 10000);
+
+		$('form').validate({
+			rules: {
+				name: "required",
+				message : "required",
+				date : "required",
+				email: {
+					required: true,
+					email: true
+				}
+			},
+			messages: {
+				name: "Please Enter Your Fullname",
+				message: "Message is required",
+				email: "Please Enter a Valid Email",
+				date: "Enter the date"
+			}
+		});
+
+		$('form').submit(function() {
+
+			var data = {
+				'name' : $('#name').val(),
+				'email' : $('#email').val(),
+				'message' : $('#message').val(),
+				'date' : $('#date').val()
+			}
+
+			//data = $(this).serialize() + "&" + $.param(data);
+			
+			$.ajax({
+				type: "POST",
+				url: "getdata.php",
+				data: data,
+				dataType: "json",
+				encode: true,
+				success: function(data){
+					alert("Data Submitted Successfully");
+				}
+        	});
+			//return false;
+		});
+	});
+
+</script>
+</html>

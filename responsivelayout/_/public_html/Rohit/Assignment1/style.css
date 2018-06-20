@@ -1,0 +1,40 @@
+body{
+	margin: 0px;
+	background-color: #d7e7f4;
+}
+.main{
+	background-color: white;
+	height: 100%;
+	margin: 0 auto;
+	max-width: 954px;
+
+}
+
+.logo{
+	float: left;
+	margin:0 22px;
+}
+
+.link a{
+	float: right;
+	margin-right: 22px;
+	color: #007BAF;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-bottom: 10px;
+}
+
+.search{
+	margin-right: 22px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.right{
+	float: right;
+	margin:10px 22px;
+}
+
+#image{
+	float: right;
+	margin-left: 4px;
+	height: 21px;
+}
